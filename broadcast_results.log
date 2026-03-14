@@ -1,0 +1,200 @@
+[2025-10-06T15:05:05.781437] OK chat_id=550537187
+[2025-10-06T15:05:06.609773] OK chat_id=363889511
+[2025-10-06T15:05:07.555532] FAIL chat_id=7436685053 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:08.350031] OK chat_id=241954492
+[2025-10-06T15:05:09.114940] OK chat_id=5183958435
+[2025-10-06T15:05:09.959003] FAIL chat_id=6739030012 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:10.752798] OK chat_id=6742056004
+[2025-10-06T15:05:11.547329] OK chat_id=1071199731
+[2025-10-06T15:05:12.324780] FAIL chat_id=1394751561 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:13.116214] FAIL chat_id=248092092 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:13.901743] OK chat_id=679792158
+[2025-10-06T15:05:14.688898] OK chat_id=426663693
+[2025-10-06T15:05:15.508650] OK chat_id=358615442
+[2025-10-06T15:05:16.332115] FAIL chat_id=984986257 err=http_403:{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'}
+[2025-10-06T15:05:17.214915] OK chat_id=700764079
+[2025-10-06T15:05:18.102527] OK chat_id=980472222
+[2025-10-06T15:05:19.081099] FAIL chat_id=250149352 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:19.820412] FAIL chat_id=811114903 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:20.621482] OK chat_id=5057186351
+[2025-10-06T15:05:21.386367] OK chat_id=1383750947
+[2025-10-06T15:05:22.161035] FAIL chat_id=1426281364 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:22.966726] OK chat_id=486148972
+[2025-10-06T15:05:23.780917] OK chat_id=1029619910
+[2025-10-06T15:05:24.554024] OK chat_id=476319510
+[2025-10-06T15:05:25.320978] FAIL chat_id=5080552342 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:26.131642] OK chat_id=776300427
+[2025-10-06T15:05:27.266851] FAIL chat_id=433791261 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:28.162486] FAIL chat_id=228786928 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:28.950192] OK chat_id=1512648141
+[2025-10-06T15:05:29.742061] OK chat_id=824152561
+[2025-10-06T15:05:30.527712] OK chat_id=286483124
+[2025-10-06T15:05:31.275969] FAIL chat_id=7021137348 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:32.045621] OK chat_id=240269464
+[2025-10-06T15:05:32.818915] FAIL chat_id=7937478005 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:33.621191] OK chat_id=336640407
+[2025-10-06T15:05:34.390064] OK chat_id=5059645322
+[2025-10-06T15:05:35.227594] OK chat_id=700809861
+[2025-10-06T15:05:36.068086] OK chat_id=537020681
+[2025-10-06T15:05:37.132623] FAIL chat_id=1691772814 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:38.487358] FAIL chat_id=778065807 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:39.699276] OK chat_id=286445516
+[2025-10-06T15:05:40.686693] OK chat_id=977556312
+[2025-10-06T15:05:41.460845] FAIL chat_id=1887969071 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:42.380708] OK chat_id=743831070
+[2025-10-06T15:05:43.171984] FAIL chat_id=1192516877 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:43.994707] OK chat_id=391397351
+[2025-10-06T15:05:44.884860] OK chat_id=443534161
+[2025-10-06T15:05:45.877014] OK chat_id=723581310
+[2025-10-06T15:05:46.793444] OK chat_id=1514552579
+[2025-10-06T15:05:47.542600] FAIL chat_id=45563955 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:48.298919] FAIL chat_id=5134037251 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:49.042235] FAIL chat_id=5876943314 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:49.824338] OK chat_id=1490760353
+[2025-10-06T15:05:50.601410] OK chat_id=824837469
+[2025-10-06T15:05:51.393241] OK chat_id=1097159922
+[2025-10-06T15:05:52.206458] OK chat_id=972449527
+[2025-10-06T15:05:53.062794] OK chat_id=964265273
+[2025-10-06T15:05:53.840190] OK chat_id=6045800426
+[2025-10-06T15:05:54.612262] OK chat_id=408072795
+[2025-10-06T15:05:55.426787] OK chat_id=640972731
+[2025-10-06T15:05:56.228730] FAIL chat_id=1023979793 err=http_403:{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'}
+[2025-10-06T15:05:57.513317] FAIL chat_id=5116369419 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:05:58.620569] OK chat_id=555885946
+[2025-10-06T15:05:59.830837] FAIL chat_id=430552745 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:00.608213] FAIL chat_id=383474451 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:01.377019] OK chat_id=1839786196
+[2025-10-06T15:06:02.126333] FAIL chat_id=785070443 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:02.873223] FAIL chat_id=6944163631 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:03.621923] FAIL chat_id=488575324 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:04.379802] OK chat_id=5432662780
+[2025-10-06T15:06:05.189704] OK chat_id=287005250
+[2025-10-06T15:06:05.937962] FAIL chat_id=1298621364 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:06.689422] FAIL chat_id=206279134 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:07.451667] FAIL chat_id=487121512 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:08.262017] OK chat_id=5863771878
+[2025-10-06T15:06:09.065926] OK chat_id=5384537893
+[2025-10-06T15:06:09.924155] FAIL chat_id=1732394644 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:10.688724] FAIL chat_id=1856938411 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:11.436973] FAIL chat_id=1200054001 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:12.223087] OK chat_id=1742445231
+[2025-10-06T15:06:13.154714] FAIL chat_id=537798512 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:14.589148] FAIL chat_id=474075136 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:15.400234] FAIL chat_id=5001891390 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:16.127298] FAIL chat_id=1073177545 err=http_403:{'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'}
+[2025-10-06T15:06:16.896106] FAIL chat_id=915154244 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:17.689813] FAIL chat_id=394684915 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:18.450071] FAIL chat_id=1344871752 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:19.240676] OK chat_id=5832528615
+[2025-10-06T15:06:19.992818] FAIL chat_id=1790222708 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:21.329203] FAIL chat_id=670150944 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:22.213055] FAIL chat_id=7141000048 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:22.989005] OK chat_id=7771893217
+[2025-10-06T15:06:23.736822] FAIL chat_id=954568128 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:24.548884] OK chat_id=498534876
+[2025-10-06T15:06:25.378322] OK chat_id=425341087
+[2025-10-06T15:06:26.156167] FAIL chat_id=738477740 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:26.927401] FAIL chat_id=1336280378 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:27.709207] OK chat_id=276181439
+[2025-10-06T15:06:28.518210] FAIL chat_id=2104225184 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:29.333113] FAIL chat_id=458691737 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:30.415473] FAIL chat_id=6446615963 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:31.294822] OK chat_id=294481862
+[2025-10-06T15:06:32.148311] FAIL chat_id=231085467 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:33.153916] FAIL chat_id=885999448 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:34.243453] FAIL chat_id=447118721 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:35.165141] FAIL chat_id=1456615894 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:36.040847] OK chat_id=661341910
+[2025-10-06T15:06:37.595093] FAIL chat_id=996250748 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:38.746345] FAIL chat_id=1028530280 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:39.611615] FAIL chat_id=6860144313 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:40.458787] FAIL chat_id=7127970688 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:41.375633] OK chat_id=1371655250
+[2025-10-06T15:06:42.256643] FAIL chat_id=300280391 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:43.185037] FAIL chat_id=5419848208 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:44.042635] FAIL chat_id=374753460 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:44.933682] OK chat_id=1258431218
+[2025-10-06T15:06:46.098291] FAIL chat_id=2114065956 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:47.108724] OK chat_id=834311214
+[2025-10-06T15:06:48.024896] OK chat_id=538701650
+[2025-10-06T15:06:48.923371] OK chat_id=1006908457
+[2025-10-06T15:06:49.812655] OK chat_id=7541707800
+[2025-10-06T15:06:50.793252] FAIL chat_id=2053464262 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:51.638290] FAIL chat_id=428908153 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:52.522709] OK chat_id=868009282
+[2025-10-06T15:06:53.403367] FAIL chat_id=314019592 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:54.296645] FAIL chat_id=760028538 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:55.256058] OK chat_id=61886854
+[2025-10-06T15:06:56.154055] FAIL chat_id=883959711 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:57.077650] FAIL chat_id=7795259938 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:57.954069] FAIL chat_id=828956887 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:06:58.895091] FAIL chat_id=216723735 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:00.200949] FAIL chat_id=595642562 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:01.280967] OK chat_id=386993945
+[2025-10-06T15:07:02.181322] OK chat_id=6362195419
+[2025-10-06T15:07:03.078857] OK chat_id=558551495
+[2025-10-06T15:07:03.952079] FAIL chat_id=565828960 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:04.864477] OK chat_id=490370971
+[2025-10-06T15:07:05.723515] FAIL chat_id=324684926 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:06.601197] FAIL chat_id=480207763 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:07.491438] FAIL chat_id=847539409 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:08.377327] FAIL chat_id=6489721476 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:09.282798] OK chat_id=539908509
+[2025-10-06T15:07:10.308727] OK chat_id=623394022
+[2025-10-06T15:07:11.301233] FAIL chat_id=358844972 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:12.154676] FAIL chat_id=165626290 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:13.009452] FAIL chat_id=62043989 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:13.882832] OK chat_id=6494259953
+[2025-10-06T15:07:14.749563] FAIL chat_id=7031990552 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:15.665682] FAIL chat_id=442472976 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:16.852362] FAIL chat_id=968074050 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:17.947982] FAIL chat_id=1128329393 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:19.040550] FAIL chat_id=5828490841 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:20.353452] FAIL chat_id=280156544 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:22.520632] FAIL chat_id=392072786 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:23.385581] FAIL chat_id=7286156873 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:24.295626] OK chat_id=966741401
+[2025-10-06T15:07:25.173038] FAIL chat_id=1701712103 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:26.090021] FAIL chat_id=7000966666 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:26.963926] FAIL chat_id=5279330689 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:27.834669] FAIL chat_id=5279796736 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:28.688257] OK chat_id=1684291057
+[2025-10-06T15:07:29.543327] FAIL chat_id=590901712 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:30.403295] FAIL chat_id=1190190801 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:31.249703] FAIL chat_id=1944171315 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:32.108901] FAIL chat_id=5946409690 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:32.993223] FAIL chat_id=689404552 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:33.858284] FAIL chat_id=465555826 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:34.949350] FAIL chat_id=878507903 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:36.516229] FAIL chat_id=722184192 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:37.368347] FAIL chat_id=572040918 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:38.234270] FAIL chat_id=342242053 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:39.340212] FAIL chat_id=7854625026 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:40.200634] FAIL chat_id=217031125 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:41.082515] FAIL chat_id=424029924 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:41.946852] FAIL chat_id=5909234708 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:42.808110] FAIL chat_id=909913263 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:43.672213] FAIL chat_id=5691981753 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:44.520490] FAIL chat_id=969959372 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:45.376622] FAIL chat_id=1812444312 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:46.239776] FAIL chat_id=152414959 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:47.095538] FAIL chat_id=6432049241 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:47.980343] OK chat_id=743101279
+[2025-10-06T15:07:48.840950] FAIL chat_id=723136899 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:49.730000] OK chat_id=7667796240
+[2025-10-06T15:07:50.594079] FAIL chat_id=315725626 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:51.462777] FAIL chat_id=6630909124 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:52.343625] FAIL chat_id=5156919160 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:53.202778] FAIL chat_id=943608731 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:54.473813] FAIL chat_id=1440549439 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:55.576647] OK chat_id=415556977
+[2025-10-06T15:07:56.477169] FAIL chat_id=1041124804 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:57.353228] FAIL chat_id=660718711 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:58.228213] FAIL chat_id=1278815675 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:07:59.238599] FAIL chat_id=510684633 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:08:00.346118] FAIL chat_id=5524224614 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:08:01.381294] FAIL chat_id=6839706991 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:08:02.611481] FAIL chat_id=1049041718 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:08:03.488934] FAIL chat_id=124212477 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:08:04.362971] FAIL chat_id=6761910407 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+[2025-10-06T15:08:05.310492] FAIL chat_id=305188180 err=http_400:{'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}

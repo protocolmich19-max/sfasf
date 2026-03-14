@@ -1,0 +1,10 @@
+sqlalchemy
+pyTelegramBotAPI
+PyMySQL
+yookassa
+
+# Needed by handlers/db_backup.py (Google Drive upload)
+google-api-python-client
+google-auth
+google-auth-httplib2
+httplib2
